@@ -1,0 +1,12 @@
+# Ignore all node_modules in all subfolders
+**/node_modules/
+
+# Ignore bundler builds
+**/.parcel-cache/
+**/dist/
+**/build/
+
+# Optional: logs
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*

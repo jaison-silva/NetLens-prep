@@ -1,0 +1,172 @@
+React Projs plan
+
+🟩 Beginner Refresh Projects (Warm Up)
+
+Goal: Rebuild your fundamentals of components, state, props, events, lists, forms.
+
+1. Counter App with useState
+
+Increment / decrement
+
+Disable decrement at zero
+
+Show different styles based on value
+
+2. Todo App
+
+Add/edit/delete todos
+
+Filter: All / Active / Completed
+
+LocalStorage persistence
+
+3. Theme Switcher
+
+Toggle dark/light mode
+
+Save theme to LocalStorage
+
+Practice context API (optional)
+
+4. Simple API Fetcher
+
+Using fetch or axios
+
+Display list of users from JSONPlaceholder
+
+Loading & error states
+
+🟦 Intermediate Projects (Job-level features)
+
+Goal: Build apps with routing, API calls, context, forms, reducers.
+
+5. Movie Search App (TMDB API)
+
+Search movies
+
+Show posters, ratings, details
+
+Pagination or infinite scroll
+
+6. Weather App
+
+API-based dynamic weather
+
+Search by city
+
+Auto-detect location using geolocation
+
+7. Notes App (Google Keep Clone)
+
+Create notes with title + body
+
+Pin/unpin
+
+Delete & restore from trash
+
+Store in LocalStorage or Firebase
+
+8. Shopping Cart (Redux Toolkit)
+
+Product list
+
+Add to cart
+
+Remove / change quantity
+
+Total price calculation
+
+React Router for multi-page
+
+This one is GREAT for interviews (state management, business logic).
+
+🟥 Advanced Portfolio Projects (Real-world quality)
+
+Goal: Something you can show on GitHub + resume.
+
+9. Social Media Dashboard (Mini Twitter/X)
+
+Authentication
+
+Post / delete posts
+
+Like, comment
+
+User profile
+
+Firebase backend
+
+10. Expense Tracker (Full Stack)
+
+Frontend: React
+Backend: Node + Express + MongoDB
+
+Add expenses
+
+Filter by date / category
+
+Charts (using Recharts)
+
+JWT auth + Protected routes
+
+11. Job Finder App
+
+Search jobs
+
+Filter by role, experience, location
+
+Save jobs
+
+Apply jobs
+
+Admin panel (optional)
+
+12. Netflix Clone (React + Firebase)
+
+Login/signup
+
+Protected routes
+
+Movie lists from API
+
+Play UI
+
+Responsive UI
+
+This is an extremely popular portfolio project that showcases everything.
+
+⭐ Recommended Path for YOU (based on your skill level)
+
+You already know:
+
+React basics
+
+Redux
+
+Routers
+
+Firebase basics
+
+APIs
+
+Parcel/Vite
+
+Building multiple projects
+
+So I recommend:
+
+Step 1 — Warm-up (2 small projects)
+
+✔ Todo App
+✔ Movie Search App
+
+Step 2 — Job-ready (2 medium projects)
+
+✔ Shopping Cart (Redux Toolkit)
+✔ Notes App (Keep Clone)
+
+Step 3 — Portfolio (choose one big project)
+
+🔥 Netflix Clone
+or
+🔥 Expense Tracker (full stack)
